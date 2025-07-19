@@ -1,6 +1,6 @@
 # Phone----repair
 <html>
-        <header>
+         <header>
             <title> Ремонт телефонів </title>
             <link rel="stylesheet" href="style.css"/>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Відгуки</a> <a href="#photos">Фотографії</a>
